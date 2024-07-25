@@ -21,7 +21,7 @@ repository               : "rossdesa/rosselladesabbata.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/rossellaportrait.png"
+  avatar           : "blob/master/images/rossellaportrait.png"
   name             : "Rossella De Sabbata"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at the Univrsity of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
