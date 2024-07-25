@@ -23,10 +23,7 @@ author:
   # Biographic information
   avatar           : "rossellaportrait.png"
   name             : "Rossella De Sabbata"
-  pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics at the Univrsity of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
-  location         : #"Earth"
-  employer         : "University of Bristol"
   uri              : # URL
   email            : "rossella.desabbata@bristol.ac.uk" 
 
@@ -236,10 +233,10 @@ sass:
 
 
 # Outputting
-permalink: # /:categories/:title/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: # America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
