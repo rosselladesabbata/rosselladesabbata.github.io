@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Welcome
-I am a PhD student in Economics at the [University of Bristol] and a member of the European Social Science Genetics Network. My research interests are in .
+I am a PhD student in Economics at the [University of Bristol] (https://www.bristol.ac.uk/) and a member of the European Social Science Genetics Network. My research interests are in .
 
 ## Current projects
 **Windscale** (with )
