@@ -247,7 +247,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  google_search_console:
+google_search_console:
   verification_file_code: lZ7YySB47oOvjBr4th6SXjzXI0hOhIzc0If2lYEeFhk
 # mimic GitHub Pages with --safe
 whitelist:
