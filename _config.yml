@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rossella De Sabbata"
 title_separator          : "-"
 name                     : &name "Rossella De Sabbata"
-description              : &description "PhD student in Economics at the Univrsity of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
+description              : &description "PhD student in Economics at the University of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
 url                      : https://rossdesa.github.io/rosselladesabbata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rossdesa/rosselladesabbata.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "rossellaportrait.png"
   name             : "Rossella De Sabbata"
-  bio              : "PhD student in Economics at the Univrsity of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
+  bio              : "PhD student in Economics at the University of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
   uri              : # URL
   email            : "rossella.desabbata@bristol.ac.uk" 
 
