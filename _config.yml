@@ -83,7 +83,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : lZ7YySB47oOvjBr4th6SXjzXI0hOhIzc0If2lYEeFhk
+google_site_verification : 31dc2a8e9a574054
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -102,7 +102,7 @@ include:
   - .htaccess
   - _pages
   - files
-  - googlelZ7YySB47oOvjBr4th6SXjzXI0hOhIzc0If2lYEeFhk
+  - google31dc2a8e9a574054
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -248,7 +248,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 google_search_console:
-  verification_file_code: lZ7YySB47oOvjBr4th6SXjzXI0hOhIzc0If2lYEeFhk
+  verification_file_code: 31dc2a8e9a574054
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
