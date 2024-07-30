@@ -12,8 +12,8 @@ title                    : "Rossella De Sabbata"
 title_separator          : "-"
 name                     : &name "Rossella De Sabbata"
 description              : &description "PhD student in Economics at the University of Bristol, Marie Curie Fellow at the European Social Science Genetics (ESSGN)"
-url                      : https://rossdesa.github.io/rosselladesabbata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://rossdesa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/rosselladesabbata.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "rossdesa/rosselladesabbata.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
