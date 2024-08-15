@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% assign stripped_url = post.url | replace_first: base_path, "" %}
+      {% assign stripped_url = post.url | replace_first: "https://rosselladesabbata.github.io/", "" %}
       {% if post.link %}
         <a href="{{ stripped_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
