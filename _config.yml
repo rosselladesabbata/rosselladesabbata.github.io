@@ -168,6 +168,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  readings:
+    output: true
+    permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -208,7 +214,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _resources
   - scope:
       path: ""
       type: resources
@@ -217,7 +223,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _readings
   - scope:
       path: ""
       type: readings
