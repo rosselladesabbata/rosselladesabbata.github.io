@@ -1,3 +1,4 @@
+{% include base_path %}
 ---
 title: "The Physical Destruction of Nauru: An Example of Weak Sustainability"
 collection: readings
