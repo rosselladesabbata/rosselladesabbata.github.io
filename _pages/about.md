@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 # Welcome!
 I am a PhD student in Economics at the [University of Bristol](https://www.bristol.ac.uk/) and an ESSGN doctoral candidate at the [European Social Science Genetics Network](https://essgn.org/). My research interests broadly lie in empirical microeconomics; in my PhD I am researching how environmental and genetic forces jointly shape health and well-being over the life course.
 
