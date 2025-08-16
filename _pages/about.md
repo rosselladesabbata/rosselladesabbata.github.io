@@ -14,7 +14,10 @@ redirect_from:
 I am a PhD student in Economics at the [University of Bristol](https://www.bristol.ac.uk/) and an ESSGN doctoral candidate at the [European Social Science Genetics Network](https://essgn.org/). My research interests broadly lie in empirical microeconomics; in my PhD I am researching how environmental and genetic forces jointly shape health and well-being over the life course.
 
 ## Current projects
-**Low-dose exposure to ionizing radiation: Long-term health and cognitive effects of a nuclear accident** (with Paul Hufe and Stephanie von Hinke)
+**Low-dose exposure to ionizing radiation: Long-term health and cognitive effects of a nuclear accident** (draft available upon request)
+<br>
+
+**On the estimation of inclusion probabilities for weighted analyses of nested case control studies** (With Vivian Viallon, Tomeu López-Nieto Veitch)
 <br>
 
 **Terrorist Propaganda** (with Travers Barclay Child, Kai Gehring, Sarah Langlotz, and Austin L. Wright)
