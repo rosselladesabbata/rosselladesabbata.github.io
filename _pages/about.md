@@ -17,7 +17,7 @@ I am a PhD student in Economics at the [University of Bristol](https://www.brist
 **Low-dose exposure to ionizing radiation: Long-term health and cognitive effects of a nuclear accident** (draft available upon request)
 <br>
 
-**On the estimation of inclusion probabilities for weighted analyses of nested case control studies** (With Vivian Viallon, Tomeu López-Nieto Veitch)
+**On the estimation of inclusion probabilities for weighted analyses of nested case control studies** (With Vivian Viallon, Tomeu López-Nieto Veitch, Ryung Kim, Sven Ove Samuelsen, and Nathalie C. Støer)
 <details>
 <summary>Abstract | <a href="https://doi.org/10.48550/arXiv.2601.04066">Working Paper</a> </summary>
 Nested case-control (NCC) studies are a widely adopted design in epidemiology to investigate exposure disease relationships. This paper examines weighted analyses in NCC studies, focusing on two prominent
