@@ -18,6 +18,17 @@ I am a PhD student in Economics at the [University of Bristol](https://www.brist
 <br>
 
 **On the estimation of inclusion probabilities for weighted analyses of nested case control studies** (With Vivian Viallon, Tomeu López-Nieto Veitch)
+<details>
+<summary>Abstract | <a href="https://doi.org/10.48550/arXiv.2601.04066">Working Paper</a> </summary>
+Nested case-control (NCC) studies are a widely adopted design in epidemiology to investigate exposure disease relationships. This paper examines weighted analyses in NCC studies, focusing on two prominent
+weighting methods: Kaplan-Meier (KM) weights and Generalized Additive Model (GAM) weights. We consider three target estimands: log-hazard ratios, conditional survival, and associations between
+exposures. While KM- and GAM-weights are generally robust, we identify specific scenarios where they can lead to biased estimates. We demonstrate that KM-weights can lead to biased estimates when
+a proportion of the originating cohort is effectively ineligible for NCC selection, particularly with small case proportions or numerous matching factors. Instead, GAM-weights can yield biased results if
+interactions between matching factors influence disease risk and are not adequately incorporated into weight calculation. Using Directed Acyclic Graphs (DAGs), we develop a framework to systematically
+determine which variables should be included in weight calculations. We show that the optimal set of variables depends on the target estimand and the causal relationships between matching factors,
+exposures, and disease risk. We illustrate our findings with both synthetic and real data from the European Prospective Investigation into Cancer and nutrition (EPIC) study. Additionally, we extend the
+application of GAM-weights to ”untypical” NCC studies, where only a subset of cases are included. Our work provides crucial insights for conducting accurate and robust weighted analyses in NCC studies.
+</details>
 <br>
 
 **Early-career-researcher-led best practices for social science and behavioural genetics** (with Vincent J. Straub, Nadia V. Harerimana, Lyydia I. A. Alajääskö, Sergio Ordonez Beltran, Asya Bülbül, Tomeu López-Nieto Veitch, Qiyuan Peng, and Mar Talens )
