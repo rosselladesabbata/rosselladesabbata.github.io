@@ -20,6 +20,12 @@ I am a PhD student in Economics at the [University of Bristol](https://www.brist
 **On the estimation of inclusion probabilities for weighted analyses of nested case control studies** (With Vivian Viallon, Tomeu López-Nieto Veitch)
 <br>
 
+**Early-career-researcher-led best practices for social science and behavioural genetics** (with Vincent J. Straub, Nadia V. Harerimana, Lyydia I. A. Alajääskö, Sergio Ordonez Beltran, Asya Bülbül, Tomeu López-Nieto Veitch, Qiyuan Peng, and Mar Talens )
+<details>
+<summary>Comment | <a href="https://www.nature.com/articles/s41562-026-02469-6">Nature Human Behaviour (2026)</a> </summary>
+</details>
+<br>
+
 **Terrorist Propaganda** (with Travers Barclay Child, Kai Gehring, Sarah Langlotz, and Austin L. Wright)
 <details>
 <summary>Abstract | <a href="https://www.peio.me/wp-content/uploads/PEIO15/PEIO15_paper_101.pdf">Working Paper</a> </summary>
